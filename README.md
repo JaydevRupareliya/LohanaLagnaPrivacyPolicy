@@ -12,18 +12,19 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Name, Email, Mobile Number, Picture, Age, Gender, Date of Birth, Height, Address, Time of Birth, Education Details, Employment Details, Annual Income, Marital Status, Religion, Subcaste, Horoscope, Family Values, Family Type, Siblings Count. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Name, Email, Mobile Number, Picture, Age, Gender, Date of Birth, Height, Address, Time of Birth, Education Details, Employment Details, Annual Income, Marital Status, Religion, Subcaste, Horoscope, Family Values, Family Type, Siblings Count. The information that I request will be retained on app servers until deleted by me or the user.
 
-The app does use third-party services that may collect information used to identify you.
+Since the application provides platform for matrimonial profile matches, your data I collect will be visible partially or fully to all the users of the app depending on the criteria I decide. I am not liable in any form for your data usage by other users of the application. Incase of any issues regarding your data misuse, you can contact me on my email info@lohanalagna.com or from the details provided in the "Contact Us" section in the application.
 
-Link to the privacy policy of third-party service providers used by the app
+You can view and edit your information from the "Profile" section of the application. 
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
+You can delete your data as per your desire from the "Delete my account" section in the application. When you delete your data, all of your information saved on our servers will be deleted. If you ever desire to return to the application your data will be collected freshly depending on the circumstances and policy decisions of that time.
 
+The app does not use third-party services that may collect information used to identify you.
 
-### Log Data
+### Notifications
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+The application allows it's users to send and receive notifications for matrimonial interests. The notifications will be shown as in app notifications. The criteria for sending and receiving notifications will be implemented by me without any mandatory notification to you. The notifications you send and receive are stored on the application servers and you can view them in the "Interests History" section of the app. These notification records will be deleted when your profile data is deleted subject to contitions mentioned above.
 
 ### Cookies
 
